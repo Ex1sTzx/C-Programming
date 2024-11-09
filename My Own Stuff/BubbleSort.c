@@ -13,7 +13,7 @@ int main()
         scanf("%d", &arr[i]);
     }
 
-    int i, j, swapped;
+    // int i, j, swapped;
     for (i = 0; i < n - 1; i++)
     {
         swapped = 0;
