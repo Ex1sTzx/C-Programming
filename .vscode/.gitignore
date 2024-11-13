@@ -1,0 +1,6 @@
+# Ignore configuration and system files
+.anaconda/
+.conda/
+.gitconfig
+.vscode/
+AppData/
